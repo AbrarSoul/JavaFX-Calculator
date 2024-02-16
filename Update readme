@@ -1,0 +1,9 @@
+# JavaFX Calculator
+The project is a simple calculator app developed with JavaFX. 
+
+# Functions
+If a user sets values into the operator input fields and presses one of the buttons, the result of applying the corresponding operation to the two operands should appear in the result field. The operation will not affect the contents of the input fields: They will hold their existing values until the user explicitly modifies them. The program must use double variables for handling the input values and the result. 
+
+# How to use
+Simply open the project in any IDE which supports Java. Then, go to JavaFX-Calculator -> src -> main -> java -> fi -> tuni -> prog3 -> calc -> Calculator.java
+Then, run Calculator.java and use the app.
